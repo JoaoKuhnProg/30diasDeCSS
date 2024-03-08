@@ -51,4 +51,4 @@ Gostou da ideia?
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
-![Dia 01]<iframe src="https://giphy.com/embed/ol288jdgK2rcaCaVd9" width="480" height="192" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ol288jdgK2rcaCaVd9"></a></p>
+![Dia 01]<img src="(https://giphy.com/embed/ol288jdgK2rcaCaVd9)">
