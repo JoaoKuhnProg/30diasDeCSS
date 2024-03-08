@@ -50,5 +50,5 @@ Gostou da ideia?
 * [Dia 30 - Fogos de artificio](#id30)
 
 
-##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
+##  Desafio dia 01 - Emote icon em camadas <a name="id01"></a>
 <img src="./day1/img/giphy.gif">
