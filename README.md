@@ -51,4 +51,4 @@ Gostou da ideia?
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
-![Dia 01](https://github.com/JoaoKuhnProg/30diasDeCSS/day1/)
+![Dia 01](https://giphy.com/gifs/css-html-frontend-A70B57pOyAiqXDrlcE)
